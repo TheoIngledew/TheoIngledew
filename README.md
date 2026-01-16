@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello there 👋
+I am currently studying Electronic & Computer engineering
+My interest in programming languages are in C, C++ & VHDL and I oud like to do work in control systems & serial communicationin the future 
+Since the start of my embbeded journey I have wrote code for PIC, AVR & STM32 family of devices
 
 <!--
 **TheoIngledew/TheoIngledew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
